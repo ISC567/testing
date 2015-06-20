@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "ISC568_SSRSClassProject", "ISC568_SSRSClassProject\ISC568_SSRSClassProject.rptproj", "{D6FC5350-1817-43E9-91A6-146120242356}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6FC5350-1817-43E9-91A6-146120242356}.Debug|Default.ActiveCfg = Debug
+		{D6FC5350-1817-43E9-91A6-146120242356}.Debug|Default.Build.0 = DebugLocal
+		{D6FC5350-1817-43E9-91A6-146120242356}.Debug|Default.Deploy.0 = DebugLocal
+		{D6FC5350-1817-43E9-91A6-146120242356}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{D6FC5350-1817-43E9-91A6-146120242356}.DebugLocal|Default.Build.0 = DebugLocal
+		{D6FC5350-1817-43E9-91A6-146120242356}.Release|Default.ActiveCfg = Release
+		{D6FC5350-1817-43E9-91A6-146120242356}.Release|Default.Build.0 = Release
+		{D6FC5350-1817-43E9-91A6-146120242356}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
